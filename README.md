@@ -1,3 +1,2 @@
-- 👋 Hi, my name is @Sami-Laayouni and I am a 14 years old developer fascinated by STEAM (Science Technology Engineering Adveritsing and Math)
-- 👀 I’m interested in prime numbers, ai, quantum computers...
+- 👋 Hi, my name is @Sami-Laayouni a developer fascinated by STEAM (Science Technology Engineering Adveritsing and Math)
 - 📫 You can reach by email by on therealsamilaayouni@gmail.com or samilaayouni14@gmail.com
